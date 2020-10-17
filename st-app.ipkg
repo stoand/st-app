@@ -1,6 +1,9 @@
 package st-app
 
+
+brief = "Experiments involving 'App' and 'App1' Application Structuring"
+
 modules = Main
 main = Main
 depends = contrib
-
+executable = "st-app"
