@@ -1,0 +1,6 @@
+package st-app
+
+modules = Main
+main = Main
+depends = contrib
+
