@@ -3,6 +3,7 @@ package st-app
 
 brief = "Experiments involving 'App' and 'App1' Application Structuring"
 
+sourcedir = "src"
 modules = Main
 main = Main
 depends = contrib
